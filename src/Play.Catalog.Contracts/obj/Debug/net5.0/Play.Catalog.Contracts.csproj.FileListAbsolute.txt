@@ -1,0 +1,12 @@
+D:\projects\Play.Catalog\src\Play.Catalog.Contracts\bin\Debug\net5.0\Play.Catalog.Contracts.deps.json
+D:\projects\Play.Catalog\src\Play.Catalog.Contracts\bin\Debug\net5.0\Play.Catalog.Contracts.dll
+D:\projects\Play.Catalog\src\Play.Catalog.Contracts\bin\Debug\net5.0\ref\Play.Catalog.Contracts.dll
+D:\projects\Play.Catalog\src\Play.Catalog.Contracts\bin\Debug\net5.0\Play.Catalog.Contracts.pdb
+D:\projects\Play.Catalog\src\Play.Catalog.Contracts\obj\Debug\net5.0\Play.Catalog.Contracts.csproj.AssemblyReference.cache
+D:\projects\Play.Catalog\src\Play.Catalog.Contracts\obj\Debug\net5.0\Play.Catalog.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\Play.Catalog\src\Play.Catalog.Contracts\obj\Debug\net5.0\Play.Catalog.Contracts.AssemblyInfoInputs.cache
+D:\projects\Play.Catalog\src\Play.Catalog.Contracts\obj\Debug\net5.0\Play.Catalog.Contracts.AssemblyInfo.cs
+D:\projects\Play.Catalog\src\Play.Catalog.Contracts\obj\Debug\net5.0\Play.Catalog.Contracts.csproj.CoreCompileInputs.cache
+D:\projects\Play.Catalog\src\Play.Catalog.Contracts\obj\Debug\net5.0\Play.Catalog.Contracts.dll
+D:\projects\Play.Catalog\src\Play.Catalog.Contracts\obj\Debug\net5.0\ref\Play.Catalog.Contracts.dll
+D:\projects\Play.Catalog\src\Play.Catalog.Contracts\obj\Debug\net5.0\Play.Catalog.Contracts.pdb
